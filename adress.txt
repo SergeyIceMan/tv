@@ -1,5 +1,5 @@
 git add *
-git commit -m 07.10.24
+git commit -m 02.12.24
 git push -u
 
 
