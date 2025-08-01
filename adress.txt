@@ -1,7 +1,8 @@
 git add *
-git commit -m 31.07.25
+git commit -m 01.08.25
 git push -u
 
-http://iptvin.ru/p/?loganet-all&Morozenok13&89517284969Mm
+http://iptvin.ru/p/?web3-3&Morozenok13&89517284969Mm
+
 
 
