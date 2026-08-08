@@ -457,8 +457,6 @@ http://188.190.222.53/Mosfilm/index.m3u8
 http://158.101.222.193:88/georgia_play.php?id=interesnoetv
 #EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i.postimg.cc/NMzPFvb5/e93d2c79526c93b504177635d66e8c17.png" logo="http://overlay.iptvin.online/epg/PIC/%D0%9D%D0%A2%D0%92%20%D0%9F%D1%80%D0%B0%D0%B2%D0%BE.png" channelId="3162" tvg-id="ntv-pravo",НТВ Право
 http://cdn.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://ex.iptvin.ru/pic/2/Cinema-b.jpg" logo="https://antifriz.tv/storage/images/pack_logos/199f12272161f01943e3972bdbb88db4.png" channelId="181" tvg-id="cinema-ru",Cinema HD
-http://catchup.videoline.ru/cinema/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i.postimg.cc/3RRc3xXs/071e65cbe8a2065c737c617c04a79565.png" logo="http://overlay.iptvin.online/epg/PIC/%D0%9D%D0%A2%D0%92%20%D0%A1%D0%B5%D1%80%D0%B8%D0%B0%D0%BB.png" channelId="3160" tvg-id="ntv-serial",НТВ Сериал
 http://cdn.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://i.ibb.co/ZJVwY0K/preview-logo-ntv-hit.png" logo="https://satsis.info/uploads/posts/2018-07/1532600127_www.satsis.info__ntv-hit.png" channelId="3865" tvg-id="ntv-xit",НТВ Хит
@@ -660,7 +658,7 @@ http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1 group-title="Без группы",KZ 24
 https://tvcdn01.oktv.kz/tv/24kz/index.m3u8
 #EXTINF:-1 group-title="Без группы",LAV-KINO
-https://lbgo.bozztv.com/07/ushba32/tracks-v1a1/mono.m3u8
+https://fl1004.bozztv.com/ushba32/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Без группы",Maximum
 http://maximum.hostingradio.ru/maximum96.aacp
 #EXTINF:-1 group-title="Без группы",Polsat Sport 1 HD
@@ -779,7 +777,3 @@ https://tsv.md/stream/hls/tsv-online/index.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/ural24-hd/track_101_4e9e7e3b/chunklist.m3u8
 #EXTINF:-1 group-title="Без группы",Хоккей ТВ HD
 http://cdn-01.bonus-tv.ru/kmir/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Без группы",Iptvplay Память HD
-http://5.188.158.65:4040/IPTVPLAYPAMYAT.tv/video.m3u8?token=lqRGka5-YwwqF0
-#EXTINF:-1 group-title="Без группы",Патриот
-http://catchup.videoline.ru/asvtv/index.m3u8
